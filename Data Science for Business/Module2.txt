@@ -1,0 +1,76 @@
+Module 02) Data Collection and Storage
+
+PII should be keep safe always.
+PII = name +phone +emamil address +address
+
+PII can be treated with unique ID. 
+Make 2 table in one only PII with unique ID 
+and then use unique ID for main table 
+
+
+GDPR(General data Protection Regulation)
+	regulates how long data can be stored
+
+Solicited Data (SD)
+	create marking collateral 
+	derisk decision  making 
+	monitor quality
+
+Types of SD
+	survey
+	customer reviews
+	FDG
+
+Qualitative
+	Conversation
+	FDG
+	IDE
+
+Quantitative
+	select one 
+	select multiple 
+	scale 1-10 /1-5
+
+Be specific for questions and answers 
+
+Avoid loaded language
+
+Calibrate survey with language
+
+=====================
+Collecting Additional Data
+
+API
+Public Record
+Mechanical Turk
+
+API(Application Programming Interface)
+
+API like	 Twitter
+			wiki
+			yahoo
+			zomato etc.
+
+
+Public Records
+	data.gov
+	data.europa.eu
+	Building Training Set
+
+Mechanical Turk
+
+Resource: AWS MTurk
+
+
+
+==========================
+Data Storage and retrieval
+
+
+Parallel Storage Solutions
+
+
+
+	
+
+https://campus.datacamp.com/courses/data-science-for-business/data-collection-and-storage?ex=1
