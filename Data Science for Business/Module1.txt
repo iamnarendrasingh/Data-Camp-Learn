@@ -1,0 +1,50 @@
+Data Science for Business
+
+	
+Module 01 ) Introduction to Data Science
+
+What can Data do?
+	automate things 
+	predict weather 
+	predict sales
+
+Data Science Workflow
+	1. Data Collection
+	2. Explore and Visulization of Data
+	3. Experimentation and prediction with data
+
+IOT is great example to use Data Science Tool
+
+Case Study 
+	01. Machine Learning
+	02. IOT
+	03. Deep Learning
+
+ML<DL
+
+Data Engineer DE
+	Store and Manintain Data
+	SQL
+	Java/python to automata data
+
+Data Analyst DA
+	Visualize and describe data
+	Create Dasboard
+	Hypothesis testing
+	data visualization
+	Less math exp thana DS
+	use BI tool for dashboard 
+
+Machine Learning Scientist
+	Model and predict with data
+	Predictions 
+	Extrapolation
+	stats  a lot
+	python/R 
+
+
+Module 02) Data Collection and Storage
+
+	
+
+https://campus.datacamp.com/courses/data-science-for-business/data-collection-and-storage?ex=1
