@@ -1,0 +1,79 @@
+Module 04
+
+Supervised Machine Learning
+
+ML is for making prediction 
+SML is subset of ML method where existing data has specific struture 
+
+Data has features and labels
+	Features :	Data that help us to predict the label
+	Label 	 :	What we want to predict
+
+SML can solve below problem 
+	1.Recommendation System
+	2.Email subject optimization
+	3.Churn Prediction
+
+
+Churn Prediction
+	first we need training data (historical data/past data)
+	than we need features like age , gender ,salary , number of kids etc.
+	Than we can make trained model 
+
+Model Evaluation is must.
+
+
+==================================
+Model Evaluation
+Decision Tree 
+Logistic 
+Random Forest
+
+
+===========================
+Clustering 
+
+	Set of algo that devide data into category 
+
+Clustering is pasrt of Unsupervised ML 
+ML use features and label however UML used features only.
+
+==============
+Special Topics in ML
+
+Time Series Forcasting 
+	1.Time is feature
+	2.Seasonality
+	accounts for weekly , monthly 
+	catch period events 
+	catch seasonality
+		Weekly :	weekend TV time less
+		Monthly:	less spend in month end
+		Yearly:		Ice cream sales down in winters
+
+
+Natural Languahe Processing
+	1.Text as input data
+	2. Word count
+	3. Word embedding
+Dataset is text
+	tweets 
+	reviews 
+	email subjects
+
+Word embeddings : Group together similar words
+					Features have a matheatical meaning
+
+Sentiment Analysis
+
+========================
+DL and Explainable AI
+
+DL
+	AKA : Neural Nets/ Neural Networks 
+	Require more and more data
+	less structure data
+	great for predictive model 
+
+When to use DL
+Neeed to read pdf which i downlaoded

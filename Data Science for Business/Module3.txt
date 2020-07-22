@@ -1,0 +1,39 @@
+Module 03: Dashboards
+
+Time Series Dashboards
+	provide histogram graph
+Categorical Comparison
+	provide Bar chart 
+Highlighting a single number
+
+Displaying text 
+
+Tools to develop dashboard
+Excel
+Power BI
+Looker
+Tableau
+d3.js
+
+Stacked Bar chart
+
+
+Adhoc analysis
+
+Case Study
+ad campaign performance
+
+Handling ad hoc requests 
+	can be done by Trell , JIRA , Asana
+
+A/B Testing
+	A= Control
+	B= Vriation
+
+Steps
+	1. Picking a metric to track
+	2. calculating sample size
+	3. Running the experiment
+	4. Checking for significance
+
+
