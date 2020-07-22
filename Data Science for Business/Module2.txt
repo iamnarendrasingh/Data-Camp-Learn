@@ -69,8 +69,18 @@ Data Storage and retrieval
 
 Parallel Storage Solutions
 
+Types of data
+	Unstructured
+		Email
+		Text
+		Video Audio Files
+		Web Pages
+		Social Media
+	Structure 
+		Excel data 
+		data in tables
 
+Data Query 
+	SQL 	Relational Database
+	NOSQL	Document Database
 
-	
-
-https://campus.datacamp.com/courses/data-science-for-business/data-collection-and-storage?ex=1

@@ -43,8 +43,3 @@ Machine Learning Scientist
 	python/R 
 
 
-Module 02) Data Collection and Storage
-
-	
-
-https://campus.datacamp.com/courses/data-science-for-business/data-collection-and-storage?ex=1
