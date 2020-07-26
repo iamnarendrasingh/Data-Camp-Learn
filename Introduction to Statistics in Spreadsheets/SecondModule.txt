@@ -26,3 +26,11 @@ Adding a trend line
 	1) SLOPE() - will return the slope of a trend line or linear regression representing the linear change in one unit to another.
 	2) INTERCEPT() - returns the value where the trendline will intersect the y-axis.
 	3) LINEST() - calculates both the slope & the intercept of two variables using the least-squares method.	
+
+=================
+Bar Charts
+	Your job in this exercise is to create two types of bar charts: stacked, and side-by-side. The difference is subtle but helps your audience in different ways.
+
+		1) Stacked: helps you focus on the proportion of the total that is a particular class. You will visually understand the amount of the total that represents competitive online auctions.
+
+		2) Side-by-side: lets the audience understand the values in relation to each other. You will visually interpret how similar each class values are.

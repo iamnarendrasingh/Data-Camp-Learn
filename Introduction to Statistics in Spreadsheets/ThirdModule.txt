@@ -1,0 +1,30 @@
+Central to Stats: Sampling
+
+Sampling vs populations
+
+Sampling
+	subset of populations
+	as sample increase , close statistics 
+
+Central limit theorem(CLT)
+
+=================
+Hypothesis Testing
+	Any testable claim
+
+Null vs Alternate 
+
+Null
+	Accepted fact
+	H0
+	Average ferrari price is equal to average car price
+		FAIL TO Reject
+
+Alternate
+	Challenger Statement
+	H1
+	Average ferrari price is not equal to average car price
+
+t-test
+	produce p value 1%(.01) 5%(.05)
+	 
