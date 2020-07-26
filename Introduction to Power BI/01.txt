@@ -1,0 +1,26 @@
+01st Module
+
+	Data Visz Tools
+		Power BI
+		Excel
+
+Power BI components
+	Power BI Desktop
+	Power BI Service
+
+
+Power BI and Power BI Pro 
+
+3 views in Power BI
+	Report View
+	Data View
+	Model View
+
+Pane
+	Filter
+	Visualizations
+	Fields
+
+Snowflak schema
+
+
