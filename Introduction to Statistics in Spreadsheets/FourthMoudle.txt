@@ -1,0 +1,26 @@
+Fourth Module
+
+Dating data
+
+	[=max()]
+	[=min()]
+	[=countif()]
+	[correl()]
+	[quartile()]
+
+How to calculate zscore?
+
+=============
+Visuals and Distributions
+
+Variance 
+
+correlation
+
+	+1 	one var increase and second also increase
+	0 	no relationship
+	-1 	negative relationship
+
+Linear regression 
+	=linest()
+	

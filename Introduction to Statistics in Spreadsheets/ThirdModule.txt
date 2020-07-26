@@ -25,6 +25,25 @@ Alternate
 	H1
 	Average ferrari price is not equal to average car price
 
+REJECT Null Hypothesis 
+FAIL tO REJECT 
+
 t-test
+	t.test(range1,range2,tails,type)
 	produce p value 1%(.01) 5%(.05)
-	 
+	n<30
+==========
+z-test
+	p < 0.05	REJECT
+	p > .05		FAIL TO REJECT
+	n>30
+	z.test(range1 , testStatistic ,STDEC)
+https://keydifferences.com/difference-between-t-test-and-z-test.html
+
+
+================
+Ch squared test
+	Data has to be in groups 
+	[=chitest(observed_range , expected_range)]
+		
+
