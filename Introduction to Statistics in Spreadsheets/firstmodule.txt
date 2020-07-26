@@ -1,0 +1,41 @@
+
+Introduction to Statistics in Spreadsheets
+
+Module01
+
+Average / Mean 	=>	Sum of observation/ Toal Number of observation
+Median 			=>	Sort smallest to highest ,  middle number is median
+Mode 			=>	Maximum occurace of a number in a string.
+
+Median can be use to remove outliers. 
+
+How to calculate Mean,median,mode in Excel
+	Mean == [=average()]
+	Meadian == [=median()]
+	Mode == [=mode()]
+
+How to calculate variance
+	calculte mean  then subtract mean from number.
+	Square difference and than take average
+
+In excel formula =varp()
+
+SD(Standard Deviation)
+
+sqrt of variance [=sqrt()]
+or use stdevp()
+
+Percentile 
+=quartile(N,1)
+=quartile(N,2)
+=quartile(N,3)
+=quartile(N,4)
+
+A useful statistic computed from the quartiles is the "interquartile range" (IQR), which lies between the Q1 and Q3 and represents the middle 50% of the data.
+
+=====================
+Standardized Data
+
+Standard score(z-score)
+	calculate mean , then standard deviation
+	==[=standardize()]
