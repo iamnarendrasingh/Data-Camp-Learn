@@ -1,0 +1,28 @@
+SecondModule
+
+Visualizing Distributions
+
+Hisotgram 
+
+	skew		=> [=skew()]
+	kurtosis	=>	[=kurt()]
+
+========================
+Visualizing correlations
+
+Scatterplots
+	visulaize single varibale 
+	each dot represent a row in data 
+	trend line can help you to make imaginztion real.
+	=linest(rangeX,rangeY)
+
+	1) 0 correlation means there is no relationship between variables.
+	2) Positive correlation indicate that as one variable increases, the other also increases.
+	3) Negative correlation values signify that as one variable increases, the other decreases.
+
+Adding a trend line
+	Spreadsheets have 3 formulas for calculating the y-intercept and slope given two variables.
+
+	1) SLOPE() - will return the slope of a trend line or linear regression representing the linear change in one unit to another.
+	2) INTERCEPT() - returns the value where the trendline will intersect the y-axis.
+	3) LINEST() - calculates both the slope & the intercept of two variables using the least-squares method.	
