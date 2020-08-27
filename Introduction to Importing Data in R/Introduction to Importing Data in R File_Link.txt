@@ -1,0 +1,10 @@
+File Link 
+1)https://assets.datacamp.com/production/repositories/453/datasets/b47d250de5379914100e28075556fb24e55ca2cd/potatoes.csv
+
+2)https://assets.datacamp.com/production/repositories/453/datasets/d78f476c64cf9bc91d4467ff64769afd64d4b450/potatoes.txt
+
+3) https://assets.datacamp.com/production/repositories/453/datasets/0badb39b50c7daf000698efbca476716db7c1a6f/swimming_pools.csv
+
+4) https://assets.datacamp.com/production/repositories/453/datasets/3e5a732b4467c1cbed6a8e8e7a1c9eec3fc86c58/hotdogs.txt
+
+
