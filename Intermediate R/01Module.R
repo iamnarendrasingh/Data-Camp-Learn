@@ -82,3 +82,93 @@ views > 11 & views <= 14
 #################################
 #Blend it all together
 
+#Select the entire second column, named day2, from the li_df data frame as a vector and assign it to second.
+#Use second to create a logical vector, that contains TRUE if the corresponding number of views is strictly greater than 25 or strictly lower than 5 and FALSE otherwise. Store this logical vector as extremes.
+#Use sum() on the extremes vector to calculate the number of TRUEs in extremes (i.e. to calculate the number of employees that are either very popular or very low-profile). Simply print this number to the console.
+# li_df is pre-loaded in your workspace
+#li_df
+# Select the second column, named day2, from li_df: second
+#second <- li_df$day2
+
+# Build a logical vector, TRUE if value in second is extreme: extremes
+#extremes <- second > 25 | second < 5
+
+# Count the number of TRUEs in extremes
+#sum(extremes)
+
+###################################
+#The if statement
+# Variables related to your last day of recordings
+medium <- "LinkedIn"
+num_views <- 14
+
+# Examine the if statement for medium
+if (medium == "LinkedIn") {
+  print("Showing LinkedIn information")
+}
+
+# Write the if statement for num_views
+if( num_views >15 )
+  print("You are popular!")
+
+####################
+#Add an else  
+# Variables related to your last day of recordings
+medium <- "LinkedIn"
+num_views <- 14
+
+# Control structure for medium
+if (medium == "LinkedIn") {
+  print("Showing LinkedIn information")
+} else {
+  print("Unknown medium")
+}
+
+# Control structure for num_views
+if (num_views > 15) {
+  print("You're popular!")
+} else { 
+  print("Try to be more visible!")
+}  
+
+######################
+#Customize further: else if
+# Variables related to your last day of recordings
+medium <- "LinkedIn"
+num_views <- 14
+
+# Control structure for medium
+if (medium == "LinkedIn") {
+  print("Showing LinkedIn information")
+} else if (medium == "Facebook") {
+  # Add code to print correct string when condition is TRUE
+  print("Showing Facebook information")
+} else {
+  print("Unknown medium")
+}
+
+# Control structure for num_views
+if (num_views > 15) {
+  print("You're popular!")
+} else if (num_views <= 15 & num_views > 10) {
+  # Add code to print correct string when condition is TRUE
+  print("Your number of views is average")
+} else {
+  print("Try to be more visible!")
+}
+
+#######################
+# Variables related to your last day of recordings
+li <- 15
+fb <- 9
+
+# Code the control-flow construct
+if (li>=15 & fb>=15) {
+  sms <- 2 * (li + fb)
+} else if (li<10 & fb<10) {
+  sms <- 0.5 * (li + fb)
+} else {
+  sms <- li+fb
+}
+# Print the resulting sms to the console
+print(sms)
