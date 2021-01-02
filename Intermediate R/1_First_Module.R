@@ -170,7 +170,7 @@ if (li >= 15 & fb >=15) {
 } else if (li < 10 & fb < 10) {
   sms <- 0.5 * (li + fb)
 } else {
-  sms <- li+fb
+  sms <- li+fb 
 }
 
 # Print the resulting sms to the console
