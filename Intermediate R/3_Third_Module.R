@@ -67,3 +67,32 @@ hello <- function(){
 
 # Call the function hello()
 hello()
+
+
+###################
+# Finish the pow_two() function
+pow_two <- function(x , print_info = TRUE ) {
+  y <- x ^ 2
+  if(print_info == TRUE){
+    print(paste(x, "to the power two equals", y))}
+  return(y)
+}
+
+
+##############
+# The linkedin and facebook vectors have already been created for you
+
+# Define the interpret function
+interpret <- function(num_views) {
+  if (num_views > 15) {
+    print("You're popular!")
+    return(num_views)
+  } else {
+    print("Try to be more visible!")
+    return(0)   
+  }
+}
+
+# Call the interpret function twice
+interpret(linkedin[1])
+interpret(facebook[2])
