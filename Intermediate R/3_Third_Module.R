@@ -33,3 +33,7 @@ print(avg_fb)
 #Use a function (2)
 
 
+
+
+#########write own function
+
