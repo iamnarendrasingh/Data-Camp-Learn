@@ -36,4 +36,34 @@ print(avg_fb)
 
 
 #########write own function
+# Create a function pow_two()
+pow_two <- function(x){
+  y <- x*x
+  return(y)
+}
 
+# Use the function
+pow_two(12)
+
+# Create a function sum_abs()
+sum_abs <- function(x,y) {
+  z <- abs(x)+abs(y)
+  return(z)
+}
+
+# Use the function
+sum_abs(-2,3)
+
+
+
+
+#############
+# Define the function hello()
+hello <- function(){
+  print("Hi there!")
+  TRUE
+}
+
+
+# Call the function hello()
+hello()
